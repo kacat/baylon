@@ -1,7 +1,7 @@
 <div id="page">
 	<div class="container">
 		
-		<div class="logo"><span class="entypo-rocket"></span> Babylon <span class="online">ONLINE</span></div>
+		<div class="logo"><span class="entypo-rocket"></span> DARK <span class="online">ARMADA</span></div>
 	
 	</div>
 	

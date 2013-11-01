@@ -3323,10 +3323,11 @@ a:hover {
   padding-left: 0px;
   margin-top: 150px;
   font-family: 'Squada One', Helvetica, Arial;
-  font-size: 70px;
+  font-size: 97px;
   line-height: 70px;
+  color: #b87333;
+  text-shadow: -1px -1px 0 #d9a778;
   margin-bottom: 70px;
-  text-shadow: 1px 1px 40px #000000;
 }
 #page .logo:before,
 #page .logo:after {
@@ -3338,13 +3339,13 @@ a:hover {
   clear: both;
 }
 #page .logo span.online {
-  color: #b87333;
-  font-size: 87px;
+  color: #ffffff;
+  font-size: 60px;
   line-height: 87px;
   display: block;
-  text-shadow: -1px -1px 0 #d9a778;
+  text-shadow: 1px 1px 40px #000000;
   position: absolute;
-  top: 48px;
+  top: 50px;
   left: 0px;
   z-index: -1;
 }
